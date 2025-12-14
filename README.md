@@ -48,6 +48,30 @@ Profile Page for Babysitters: Photos, bio, skills, and experiences. Reviews and 
 https://github.com/DownTheRabbitHole01010/AndroidAPp_Com437.wiki.git
 
 
+_** Babysitter Connect - Quick Summary**_____
+
+**Project Overview**  
+Babysitter Connect is an Android mobile app that securely connects parents with local babysitters, making it easy to find, vet, and book trustworthy childcare on short notice. The app features role-based experiences (separate flows for parents and babysitters), multi-layered verification, real-time communication, and location-aware search to solve real-world pain points in childcare matching.
+
+**Problems Solved**  
+- **For Parents**: Last-minute searches, safety concerns from unverified providers, unclear references, and slow communication.  
+- **For Babysitters**: Limited job visibility, difficulty showcasing credentials, and inconsistent opportunities.  
+
+The app provides a centralized, trust-focused marketplace with reviews, ratings, and direct booking tools.
+
+**Key Features**  
+- Phone-based OTP verification + social media linking for trust  
+- Advanced search/filtering with location, skills, availability, and urgent-need alerts  
+- In-app chat + SMS fallback/intent for reliable communication  
+- Profile galleries (ImageSwitcher), reviews, calendar booking, and options/context menus  
+- Automated SMS notifications for confirmations, proximity reminders, and job requests  
+
+**Tech Stack**  
+- **Frontend**: Jetpack Compose, Material Design 3, specialized components (DialogFragment, RecyclerView, ImageSwitcher)  
+- **Backend**: Firebase (Auth, Firestore, Cloud Functions, Cloud Messaging with SMS fallback)  
+- **Platform**: Android (min SDK 24, target SDK 35)  
+
+
 # Final Project Report
 See the complete formal outline and documentation in the Wiki:
 [Final Project Report - Babysitter Connect](https://github.com/DownTheRabbitHole01010/AndroidAPp_Com437/wiki/Final-Project-Report-%E2%80%90-Babysitter-Connect)
