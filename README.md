@@ -46,3 +46,8 @@ Profile Page for Babysitters: Photos, bio, skills, and experiences. Reviews and 
 
 
 https://github.com/DownTheRabbitHole01010/AndroidAPp_Com437.wiki.git
+
+
+# Final Project Report
+See the complete formal outline and documentation in the Wiki:
+[Final Project Report - Babysitter Connect](https://github.com/DownTheRabbitHole01010/AndroidAPp_Com437/wiki/Final-Project-Report-%E2%80%90-Babysitter-Connect)
